@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dinakaran97
-- 👀 I’m interested in developing web appllications and mobile applications
+- 👀 I’m interested in developing web applications and mobile applications
 
 
 
